@@ -46,6 +46,6 @@ Acesse diretamente: [Sorteador de número](https://sorteador-numero-cyan.vercel.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/daniellisboag/sorteador_numero.git
+   git clone https://github.com/daniellisboag/sorteador_numeros.git
    ```
 2. Abra o arquivo index.html em seu navegador.
